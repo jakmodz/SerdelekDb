@@ -6,7 +6,7 @@
 This Rust project implements a simple database engine that supports basic SQL-like operations such as `SELECT`, `INSERT`, `UPDATE`, `DELETE`, `CREATE`, and `DROP`. It uses Rust's powerful type system and serialization features to manage and manipulate data in a custom database format.
 
 ## Features
-- **A command-line interface (CLI) console client has been added to the project. This console client allows users to interact with the database by typing SQL-like queries directly into the terminal, offering a convenient way to test and use the database engine without writing additional code.
+- A command-line interface (CLI) console client has been added to the project. This console client allows users to interact with the database by typing SQL-like queries directly into the terminal, offering a convenient way to test and use the database engine without writing additional code.
 - **Data Management**: Create, read, update, and delete tables and records.
 - **Query Language**: Basic SQL-like syntax for querying and manipulating data.
 - **Serialization**: Uses `rmp_serde` for serializing and deserializing database files.

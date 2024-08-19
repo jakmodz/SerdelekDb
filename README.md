@@ -1,5 +1,5 @@
-# SerdelekDb
-# Rust Database Engine
+# SerdelekDb(Rust Database Engine)
+
 
 ## Overview
 
@@ -26,7 +26,7 @@ This Rust project implements a simple database engine that supports basic SQL-li
 ### Prerequisites
 
 - Rust 1.70.0 or later
-- Cargo (comes with Rust)
+
 
 ### Installation
 

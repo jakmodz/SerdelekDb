@@ -35,4 +35,5 @@ This Rust project implements a simple database engine that supports basic SQL-li
    git clone https://github.com/yourusername/rust-database-engine.git
    cd rust-database-engine
 2 Build ther project 
-'''bash cargo build
+   ```bash
+cargo build
